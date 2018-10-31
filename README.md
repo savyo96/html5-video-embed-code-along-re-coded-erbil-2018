@@ -5,7 +5,7 @@
 <p><a href="https://www.youtube.com/watch?v=ymUxDt_mOxU">HTML5 Video Embed Code-Along</a></p>
 
 All the files needed to follow along are available in this lab. Just click 'Open IDE' in Learn. However, if you were following along using a personal `exceptional-realty`
-repository in the previous HTML lessons, you can continue from where we left
+repository in the previous HTML lessons, you can continue left
 off by running the following in your terminal:
 
 ```
